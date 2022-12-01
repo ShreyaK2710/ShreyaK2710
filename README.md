@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Full stack web development
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on anything which kindles my interest
-- 📫 How to reach me: Through my insta ID - @shrxyyaaa_k
+- 📫 How to reach me: Through my email - shreyak2703@gmail.com
 
 ## 🧰 Languages and Tools:
 <p align="center">
