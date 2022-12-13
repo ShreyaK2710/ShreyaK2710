@@ -11,6 +11,8 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/Instagram.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/Instagram.svg" />
 <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/11306104/28999421-69312b92-7a03-11e7-9268-a1a8756b5442.png" alt="C" height="40" style="vertical-align:top; margin:4px">
 </p>
