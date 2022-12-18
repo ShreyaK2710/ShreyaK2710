@@ -1,3 +1,4 @@
+![](https://ShreyaK2710/user/Shreya K.png)
 <h1 align="center">Hi 👋, I'm Shreya</h1>
 <h3 align="center">An aspiring Full-Stack Developer</h3>
 
