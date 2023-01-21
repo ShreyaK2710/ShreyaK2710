@@ -1,5 +1,4 @@
 ![](https://github.com/ShreyaK2710/ShreyaK2710/blob/1c78bb6eba036e1443a2637223e9d29b84d7894b/Banner_resized.png)
-)
 <h1 align="center">Hi 👋, I'm Shreya </h1>  
 <h3 align="center">An aspiring Full-Stack Developer and learning Ethical Hacking</h3>
 
