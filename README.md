@@ -1,4 +1,4 @@
-![](https://github.com/ShreyaK2710/ShreyaK2710/blob/1c78bb6eba036e1443a2637223e9d29b84d7894b/![Banner resized](https://user-images.githubusercontent.com/95535050/213866375-3f928898-2234-4572-b25b-3f3ca400ca0a.png)
+![](https://github.com/ShreyaK2710/ShreyaK2710/blob/1c78bb6eba036e1443a2637223e9d29b84d7894b/Banner resized.png)
 )
 <h1 align="center">Hi 👋, I'm Shreya </h1>  
 <h3 align="center">An aspiring Full-Stack Developer and learning Ethical Hacking</h3>
