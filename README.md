@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyak2710" alt="shreyak2710"/></a> </p>
 
-- 🔭 I’m currently working on **Front-End Development**
+- 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **JavaScript and Node.JS**
+- 🌱 I’m currently learning **JavaScript and Java**
 
-- 👯 I’m looking to collaborate on **Web Development and Designing**
+- 👯 I’m looking to collaborate on **Full Stack Development and Designing**
 
 - 📫 How to reach me **shreyak2703@gmail.com**
 
